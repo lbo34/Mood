@@ -7,7 +7,7 @@ menu:
 
 ---
 
-Vous pouvex réagir en écrivant à laurentmoodblog@gmail.com
+Vous pouvez réagir en écrivant à laurentmoodblog@gmail.com
 
 
 (c) Laurent Barcelo, 2018
