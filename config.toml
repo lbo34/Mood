@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "Laurent's mood"
+baseURL = "/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
@@ -9,6 +9,9 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+
+#ignore files as recommended
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [sitemap]
   changefreq = "monthly"
