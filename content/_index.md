@@ -1,6 +1,7 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Ma vie 2.0"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "Une nouvelle vie, un nouveau départ, deux blogs ou deux miroirs..."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+Le premier blog, celui-ci, pour partager les suprises, les joies et les doutes occasionnés par cette expérience. Le second, (ici) pour partager le contenu de ma formation en data science.

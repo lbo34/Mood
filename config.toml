@@ -1,10 +1,10 @@
 title = "Laurent's mood"
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "fr-CA"
 theme = "gohugo-theme-ananke"
 
 MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
@@ -20,9 +20,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Quelques moments partagés"
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
   github = ""
