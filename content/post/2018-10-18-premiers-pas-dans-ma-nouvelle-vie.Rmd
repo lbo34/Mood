@@ -1,14 +1,14 @@
 ---
-title: Premiers pas dans ma nouvelle vie...
-author: Laurent
-date: '2018-10-17'
-slug: this-site-in-under-construction
-categories:
-  - General
-tags: 
+title: Premiers pas dans ma nouvelle vie
+author: Laurent Barcelo
+date: '2018-10-18'
+slug: premiers-pas-dans-ma-nouvelle-vie
+categories: []
+tags: []
 description: ''
 featured_image: ''
 ---
+
 
 
 ```{r, eval=TRUE, echo = F}
@@ -24,6 +24,4 @@ En Janvier, je vais commencer mon programme de M.Sc. à HEC... Ça aussi c'est e
 Le programme pour les prochaines semaines d'ici la rentrée est assez lâche. Il y a bien sur nos 4 jours à Manhattan pour la semaine de thanksgiving. Mais pour l'instant, j'égrène mes journées à continuer à m'auto-former.
 
 Et comme le dit Zazie dans sa chanson, je suis "flambant vieux!"
-
-
 
