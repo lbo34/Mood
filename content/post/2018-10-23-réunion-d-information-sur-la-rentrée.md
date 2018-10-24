@@ -14,7 +14,7 @@ featured_image: ''
 
 <img src="/post/2018-10-23-réunion-d-information-sur-la-rentrée_files/IMG_5273.jpg" alt="Entrée HEC" width="400px"/>
 
-**La premiére réunion d'information en amphi est arrivée...**
+**La première réunion d'information en amphi est arrivée...**
 et il est à moitié plein l'amphi. Le monde est assez divers. Des garçons, des filles, des plus jeunes (beaucoup), des plus vieux (un peu moins) attendent patiemment. La responsable des programmes arrive sur la scène. "Bonjour. Félicitations. Si vous êtes ici c'est que vous êtes bons!" (une petite dose d'autasatisfaction qui fait du bien au passage).
 
 Puis vient la vidéo de présentation de HEC... Des étudiants, divers évidemment, qui sourient à pleines dents. Mais c'est bizarre, y a que des jeunes sur la vidéo. Ça a l'air cool HEC! Bon quand même, il faut maintenir une moyenne de 2.7 sur 4.3 (euh.. pourquoi on note sur 4.3? ça fait environ 63% ça ou 12.5 sur 20)... mais bon, vous devriez y arriver nous dit-on.
